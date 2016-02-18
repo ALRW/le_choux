@@ -1,0 +1,19 @@
+body {
+  background-image: url('../images/backdrop.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.title{
+  font-family: Cookie;
+}
+.well {
+  margin-top: 10em;
+  background-color:rgba(211,211,211,0.4);
+}
+a{
+  text-decoration: none;
+  color:black;
+}
+p {
+  font-size: 1.1em;
+}
