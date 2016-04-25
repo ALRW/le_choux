@@ -1,12 +1,22 @@
-body {
-  background: url('../images/backdrop.jpeg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
 .title{
   font-family: Cookie;
+}
+.header {
+  background-color:rgba(237,228,221,1);
+  padding: 1em 1em 1em 1em;
+}
+.about{
+  background-color:rgba(255,255,254,1);
+}
+.products{
+  background-color:rgba(255,255,254,1);
+}
+.footer{
+  background-color:rgba(0,51,85,1);
+  color: ivory;
+}
+.footer a{
+  color: ivory;
 }
 .well {
   margin-top: 10em;
