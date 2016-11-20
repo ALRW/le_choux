@@ -1,6 +1,10 @@
 .title{
   font-family: Cookie;
 }
+.glyph{
+  text-align: center;
+  padding: 5em 2em 2em 2em;
+}
 .header {
   background-color:rgba(237,228,221,1);
   padding: 1em 1em 1em 1em;
@@ -27,7 +31,6 @@
   margin-bottom:1em;
   left:50%;
   bottom:0;
-
 }
 a{
   text-decoration: none;
