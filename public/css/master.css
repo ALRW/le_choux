@@ -25,17 +25,17 @@
 .social{
   margin-top: 10em;
 }
-.downArrow{
-  position:absolute;
-  margin-left:-10px;
-  margin-bottom:1em;
-  left:50%;
-  bottom:0;
-}
 a{
   text-decoration: none;
   color:black;
 }
 p {
   font-size: 1.1em;
+  padding: 1em 1em 1em 1em;
+}
+h1 {
+  padding: 1em 1em 0em 1em;
+}
+.thumbnail-image{
+  max-height: 40em;
 }
