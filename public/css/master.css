@@ -18,6 +18,7 @@
 .footer{
   background-color:rgba(0,51,85,1);
   color: ivory;
+  padding: 2em 2em 5em 2em;
 }
 .footer a{
   color: ivory;
@@ -37,5 +38,5 @@ h1 {
   padding: 1em 1em 0em 1em;
 }
 .thumbnail-image{
-  max-height: 40em;
+  max-height: 35em;
 }
